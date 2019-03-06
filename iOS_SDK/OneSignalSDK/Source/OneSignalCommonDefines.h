@@ -33,7 +33,7 @@
 // #define SERVER_URL @"https://onesignal.com/"
 
 #define API_VERSION @"api/oneSignal/"
-#define SERVER_URL @"http://192.168.2.132:5555/"
+#define SERVER_URL @"https://motalebeh2-api.arad.co/"
 
 // NSUserDefaults parameter names
 #define EMAIL_AUTH_CODE @"GT_EMAIL_AUTH_CODE"
